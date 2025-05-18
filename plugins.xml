@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<plugins>
+  <pyqgis_plugin>
+    <name>PlanOgólnyPlus</name>
+    <version>1.0.0</version>
+    <qgisMinimumVersion>3.34</qgisMinimumVersion>
+    <author>aldbe</author>
+    <description>Opis tego, co robi wtyczka…</description>
+    <downloadUrl>https://github.com/aldbe/PlanOgolnyPlus/archive/refs/heads/main.zip</downloadUrl>
+  </pyqgis_plugin>
+</plugins>
