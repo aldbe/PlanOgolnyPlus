@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/plugins/plan_ogolny" >
+        <file>layer-plus.png</file>
+    </qresource>
+</RCC>
