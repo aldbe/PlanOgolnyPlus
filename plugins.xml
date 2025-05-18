@@ -4,6 +4,7 @@
     <name>PlanOgólnyPlus</name>
     <version>1.0.0</version>
     <qgisMinimumVersion>3.34</qgisMinimumVersion>
+    <qgisMaximumVersion>3.99</qgisMaximumVersion>
     <author>aldbe</author>
     <description>Opis tego, co robi wtyczka…</description>
     <downloadUrl>https://github.com/aldbe/PlanOgolnyPlus/archive/refs/heads/main.zip</downloadUrl>
